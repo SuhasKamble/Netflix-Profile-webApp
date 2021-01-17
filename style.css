@@ -108,6 +108,25 @@ header img{
 }
 
 
+.manageProfiles{
+    margin-top: 5rem;
+}
+
+.manageBtn{
+    padding: 11px 22px;
+    border: 1px solid gray;
+    color: gray;
+    border-radius: 5px;
+    font-size: 1.3rem;
+    letter-spacing: 1.6px;
+    cursor: pointer;
+}
+.manageBtn:hover{
+    color: white;
+    border: 1px solid white;
+}
+
+
 @media(max-width:780px){
     .profileContainer h1{
         font-size: 3rem;
